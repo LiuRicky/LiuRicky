@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-**Home Page** https://liuricky.github.io/
 <!--
 **LiuRicky/LiuRicky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
